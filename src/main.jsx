@@ -18,6 +18,6 @@ import Greeting from "./Greeting";
 const root = createRoot(document.getElementById("root"));
 root.render(
   <StrictMode>
-    <Greeting />
+    <App />
   </StrictMode>
 );
